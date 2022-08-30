@@ -16,4 +16,5 @@ To build, simply:1
 
 [![Build Status](https://dev.azure.com/az400ming/Enabling%20Continuous%20Integration%20with%20Azure%20Pipelines/_apis/build/status/ming-1000033x.calculator?branchName=master)](https://dev.azure.com/az400ming/Enabling%20Continuous%20Integration%20with%20Azure%20Pipelines/_build/latest?definitionId=8&branchName=master)
 [![Build Status](https://dev.azure.com/az400ming/Enabling%20Continuous%20Integration%20with%20Azure%20Pipelines/_apis/build/status/ming-1000033x.calculator?branchName=master&jobName=Job)](https://dev.azure.com/az400ming/Enabling%20Continuous%20Integration%20with%20Azure%20Pipelines/_build/latest?definitionId=8&branchName=master)
+
 https://dev.azure.com/az400ming/Enabling%20Continuous%20Integration%20with%20Azure%20Pipelines/_apis/build/status/ming-1000033x.calculator?branchName=master&jobName=Job
